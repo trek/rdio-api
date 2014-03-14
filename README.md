@@ -22,3 +22,5 @@ A library for interacting with the Rdio Public API
 
 ## Obtaining an OAuth Access Token
 To use the Rdio object you'll need to obtain an OAuth token from Rdio.
+Check `example/server.js` for a sample flow of how this might work in
+your own application.

@@ -1,6 +1,8 @@
 # Rdio API library
 
-A library for interacting with the Rdio Public API
+A library for interacting with the Rdio Public API.
+
+Since Rdio's untimely demise in 2015, this is here mostly for refernece and this repo has been achived.
 
 ```javascript
   var connection = new Rdio({
